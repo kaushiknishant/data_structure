@@ -5,6 +5,8 @@ This repository contain basic data structure implementation like
 4. singly linkedlist
 5. double linked list 
 7. binary search tree
+8. linear search
+9. binary search
 
 
 Folder singlyLinkedList is built using visual studio 2017 and remaining file by using DevC++.
